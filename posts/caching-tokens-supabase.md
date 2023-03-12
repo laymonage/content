@@ -8,7 +8,7 @@ tags:
   - api
 toc: false
 draft: false
-comments: true
+comments: eager
 description: >-
   To help prevent giscus from hitting GitHub API's rate limit, we cache the
   access tokens in Supabase. Here's how I did it.

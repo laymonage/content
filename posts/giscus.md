@@ -3,7 +3,7 @@ title: 'Introducing giscus'
 date: 2021-05-15T08:09:08.724Z
 tags: []
 toc: false
-comments: true
+comments: eager
 draft: false
 description: |-
   Introducing giscus: a comments widget built on GitHub Discussions.
