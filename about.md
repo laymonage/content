@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: About me
 ---
 
 Hi, I'm Sage. I build up and break down stuff in the open.
