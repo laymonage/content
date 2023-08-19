@@ -29,6 +29,8 @@ Some artists are just _that_ good.
 
 So, here are all the albums I've saved to my Spotify library!
 
+<CTA href="/palates/music/albums" className="ml-auto">See my saved albums</CTA>
+
 ## Playlists
 
 To make it easier for me to listen to albums from the same artist, I've made
