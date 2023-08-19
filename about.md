@@ -2,7 +2,7 @@
 title: About me
 ---
 
-Hi, I'm Sage. I build up and break down stuff in the open.
+Hi, I'm Sage. I build things up and break them down in the open.
 
 In early 2021, I got my bachelor's degree in Computer Science from Universitas
 Indonesia. Shortly after, I worked as a Frontend Developer at a startup in
