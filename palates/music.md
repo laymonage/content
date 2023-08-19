@@ -89,7 +89,7 @@ playlist!
 
 That doesn't stop me, though!
 
-<CTA href="/palates/music/saved-tracks" className="ml-auto">See my "Liked Songs" playlist</CTA>
+<CTA href="/palates/music/playlists/saved-tracks" className="ml-auto">See my "Liked Songs" playlist</CTA>
 
 [spotify-profile]: https://open.spotify.com/user/laymonage
 [saved-tracks-change]: https://web.archive.org/web/20190629141002/https://community.spotify.com/t5/Spotify-Answers/Getting-to-know-the-new-Your-Library/ta-p/4766771
