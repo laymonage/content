@@ -14,14 +14,17 @@ to?", and my ever-growing library doesn't help.
 So I figured, why not just put whatever's on my Spotify here, and let people
 decide for themselves?
 
-## Top tracks
+## Top tracks and artists
 
-If you'd like to know what I've been listening to lately, you can see my "top
-tracks" on Spotify. This covers the songs I listen to the most, in specific
-periods of time. It's only a small part of my library, so don't use this to
-judge my music taste!
+If you'd like to know what I've been listening to lately, you can see my "top"
+tracks and artists on Spotify. This covers the songs and artists I listen to the
+most, in specific periods of time. It's only a small part of my library, so
+don't use this to judge my music taste! (Though I think for the artists, they're
+pretty representative.)
 
 <CTA href="/palates/music/top/tracks/short" className="ml-auto">See my top tracks</CTA>
+
+<CTA href="/palates/music/top/artists/short" className="ml-auto">See my top artists</CTA>
 
 ## Albums
 
