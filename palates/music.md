@@ -14,6 +14,15 @@ to?", and my ever-growing library doesn't help.
 So I figured, why not just put whatever's on my Spotify here, and let people
 decide for themselves?
 
+## Top tracks
+
+If you'd like to know what I've been listening to lately, you can see my "top
+tracks" on Spotify. This covers the songs I listen to the most, in specific
+periods of time. It's only a small part of my library, so don't use this to
+judge my music taste!
+
+<CTA href="/palates/music/top/tracks/short" className="ml-auto">See my top tracks</CTA>
+
 ## Albums
 
 When listening to music, I tend to listen to whole albums from start to finish.
