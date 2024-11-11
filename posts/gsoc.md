@@ -149,13 +149,12 @@ announcement, I also wrote [a documentation ticket][first-ticket] and submitted
 > \
 > Now, for the real deal: **working on the project**.
 
-<a
-href="https://tenor.com/view/spongebob-squarepants-patrick-star-snow-winter-cold-gif-4769079"
-style={{display: "block", marginLeft: "auto", marginRight: "auto", width: "fit-content" }}>
-<Image
+<a href="https://tenor.com/view/spongebob-squarepants-patrick-star-snow-winter-cold-gif-4769079">
+<img
     src="/img/uploads/shiver.gif"
     alt="Patrick shivering"
     title="I literally shivered when I found out I was accepted."
+    class="mx-auto block w-fit-content"
     width="500"
     height="278"
   />
