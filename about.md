@@ -17,10 +17,11 @@ included in the Django 3.1 release. I [documented my journey][documented] and
 spoke about it at the [DjangoCon Europe 2020][djceu2020] virtual event and an
 episode of the [DjangoChat][djangochat] podcast.
 
-I love learning new things. Recently, I've been diving into front-end web
-development and trying out React, Vue, and Svelte while studying the
-differences between them. As an exercise, I made [giscus][giscus] and its
-[component library][giscus-component].
+I love learning new things. A while ago, I dabbled in front-end web development
+and tried out Lit, React, Vue, and Svelte while studying the differences
+between them. As an exercise, I made [giscus][giscus] and its
+[component library][giscus-component]. I also just recently rebuilt this
+website with Astro.
 
 I grew up in small districts of Jakarta. I spend my free time writing, reading,
 playing music, and enjoying time alone or with my friends and family. I also
