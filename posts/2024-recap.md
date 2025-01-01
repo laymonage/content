@@ -20,17 +20,6 @@ image: https://cdn.laymonage.com/personal/img/2024-recap_thumb.avif
 
 So, how was 2024?
 
-<details>
-
-<summary>Disclaimer</summary>
-
-If you think this is going to be a very serious or profound post, just so you
-know I'm speedrunning this one at the last hour of the year. <small>And I'm
-continuing it on the first day of 2025 now because obviously an hour was not
-enough.</small>
-
-</details>
-
 ## Brussels and FOSDEM
 
 I kicked off the year with getting a visa for Belgium 🇧🇪 to attend FOSDEM. The
@@ -135,7 +124,7 @@ it was a continuation of mine.
 
 ## Did somebody say Django?
 
-[Went live for the first time ever on Twitch][first-twitch] as I worked on a
+[Went live for the first time ever on Twitch 🎥][first-twitch] as I worked on a
 Django ticket. Did three more streams after to continue the work. Got some PRs
 merged too! ✅
 
@@ -149,7 +138,7 @@ people were selected, and [I ended up at sixth][elections-results].
 It's okay. Looking at the elected candidates, Django is surely in good hands.
 I'm excited to see (and help) where Django is headed over the next two years.
 
-## Streaming 🎥
+## Streaming
 
 ![My freshly-built PC](https://cdn.laymonage.com/personal/img/rig_2024.avif)
 
