@@ -7,6 +7,7 @@ The contents of the following files and directories:
 - [`logs`](logs)
 - [`thoughts`](thoughts)
 - [`about.md`](about.md)
+- [`posts/2024-recap`](posts/2024-recap.md)
 
 are copyrighted to Sage Abdullah. All rights reserved. Unless given the
 permission, you are not allowed to host these files on any website other than
