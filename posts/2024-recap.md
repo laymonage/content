@@ -3,7 +3,6 @@ title: Twenty twenty-four
 date: 2024-12-31
 tags:
   - meta
-toc: true
 draft: false
 comments: true
 description: >-
@@ -19,6 +18,16 @@ image: https://cdn.laymonage.com/personal/img/2024-recap_thumb.avif
 </div>
 
 So, how was 2024?
+
+<details>
+
+  <summary>
+
+  ## Table of contents
+
+  </summary>
+
+</details>
 
 ## Brussels and FOSDEM
 

@@ -2,7 +2,6 @@
 title: Drafting a POC JSONField for SQLite
 date: 2019-06-04T09:35:05.687Z
 draft: false
-toc: false
 comments: true
 description: >-
   Since my project is to bring a cross-DB JSONField, the django-jsonfallback

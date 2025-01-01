@@ -4,7 +4,6 @@ date: 2020-02-26T20:09:08.724Z
 tags:
   - ppl
   - git
-toc: false
 draft: false
 description: |-
   As a regular user of Git, I find one particular command

@@ -2,7 +2,6 @@
 title: 'Form field and database feature'
 date: 2019-06-25T20:24:33+07:00
 draft: false
-toc: false
 comments: true
 description: >-
   In these past two weeks, I've added a form field for my JSONField. I have

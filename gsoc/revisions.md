@@ -2,7 +2,6 @@
 title: 'Revisions'
 date: 2019-08-26T10:08:29+07:00
 draft: false
-toc: false
 comments: true
 description: >-
   In this post, I explain how I found a vulnerability in
