@@ -4,7 +4,6 @@ date: 2020-06-03T01:52:43.000Z
 tags:
   - django
   - git
-toc: false
 draft: false
 description: 'Django uses Git to manage its codebase, but how?'
 image: /img/uploads/django-git.png

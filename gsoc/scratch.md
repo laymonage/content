@@ -2,7 +2,6 @@
 title: 'Writing JSONField from scratch'
 date: 2019-06-09T12:37:01+07:00
 draft: false
-toc: false
 comments: true
 description: >-
   This week, I tried to create a unified JSONField from scratch.

@@ -2,7 +2,6 @@
 title: 'Key, index, and path transforms'
 date: 2019-08-15T06:58:54+07:00
 draft: false
-toc: false
 comments: true
 description: >-
   In this post, I explain how I implemented key, index, and path transforms

@@ -2,7 +2,6 @@
 title: Community Bonding and getting started
 date: 2019-06-03T09:35:35.687Z
 draft: false
-toc: false
 comments: true
 description: >-
   In the official GSoC timeline, there's a Community Bonding period

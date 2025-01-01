@@ -5,13 +5,22 @@ tags:
   - gsoc
   - django
   - open source
-toc: true
 draft: false
 description: >-
   Google Summer of Code 2019 was a life changing experience for me. Thanks to
   Django, I learned a lot of things through the summer.
 image: /img/uploads/gsoc-15years.png
 ---
+
+<details>
+
+  <summary>
+
+  ## Table of contents
+
+  </summary>
+
+</details>
 
 <a href="https://opensource.googleblog.com/2019/09/google-summer-of-code-2019-statistics.html">
 	<img src="/img/uploads/gsoc-15years.png" alt="Celebrating 15 Years - Google Summer of Code" title="Google Summer of Code 2019: 15th year" className="dark:bg-gray-700"/>
