@@ -77,11 +77,12 @@ Unsurprisingly, we had Indonesian food a few times. It was pretty good!
 We also strolled around Amsterdam for a bit on the last day. Took the ferry to
 cross over the [IJ][ij] and have lunch before we took the train.
 
-## GSoC
+## Google Summer of Code
 
-Came back to Django for GSoC this year! Mentored Shafiya's project that builds
-on top of my JSONField project. This time, we're adding a new feature that
-allows [database-level updates to JSONField][gsoc-project].
+Came back to Django for Google Summer of Code (GSoC) this year! Mentored
+Shafiya's project that builds on top of my JSONField project. This time, we're
+adding a new feature that allows
+[database-level updates to JSONField][gsoc-project].
 
 It's so unreal to work on that bit of Django again – this time on the other end.
 Even moreso to think about how it led to all the opportunities that got me here.
