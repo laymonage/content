@@ -332,7 +332,7 @@ Also, [giscus][giscus] is almost at 9k stars and catching up with
 
 <div class="bleed">
 
-[![Star History Chart of giscus and utterances](https://api.star-history.com/svg?repos=utterance/utterances,giscus/giscus&type=Date)](https://star-history.com/#utterance/utterances&giscus/giscus&Date)
+[![Star History Chart of giscus and utterances](/img/uploads/giscus-vs-utterances-2024.svg)](https://star-history.com/#utterance/utterances&giscus/giscus&Date)
 
 </div>
 
