@@ -13,7 +13,7 @@ image: https://cdn.laymonage.com/personal/img/2025-recap_thumb.avif
 <div class="bleed bleed-full">
   <img
     src="https://cdn.laymonage.com/personal/img/bromo-banner_2025.avif"
-    class="h-dvh object-cover"
+    class="h-vh object-cover"
     alt="Mount Bromo area"
   />
 </div>
@@ -148,7 +148,7 @@ Anyway, about Germany. I spent most of my time there doing long walks and grabbi
 <div class="bleed bleed-full">
   <img
     src="https://cdn.laymonage.com/personal/img/de_olympiapark_2025.avif"
-    class="h-dvh object-cover"
+    class="h-vh object-cover"
     alt="The Willi-Gebhardt-Ufer path in Olympiapark, sunlit, curves through grassy hills and autumn-colored trees with a few people walking in the distance"
   />
 </div>
